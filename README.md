@@ -34,9 +34,9 @@ Hello! I am [Your Name], a passionate [Your Profession] with experience in [Your
 
 For a detailed look at my work, please view the following PDF portfolios:
 
-- [Portfolio 1](./portfolio1.pdf): Comprehensive project descriptions
-- [Portfolio 2](./portfolio2.pdf): Detailed skillset overview
-- [Portfolio 3](./portfolio3.pdf): Professional experience and achievements
+- [Certificates](./Certificates.pdf): Comprehensive project descriptions
+- [Concept layout at Navyani](./Concept_layout_at_Navyani.pdf): Detailed skillset overview
+- [Porfolio Shanikumar Anaghan](./Porfolio_Shanikumar_Anaghan.pdf): Professional experience and achievements
 
 ---
 
